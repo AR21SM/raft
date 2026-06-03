@@ -1,8 +1,8 @@
 module go.etcd.io/raft/v3
 
-go 1.26
+go 1.25
 
-toolchain go1.26.3
+toolchain go1.25.11
 
 require (
 	github.com/cockroachdb/datadriven v1.0.2
